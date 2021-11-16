@@ -2,6 +2,12 @@
 
 Brief description.
 
+# TO DO
+
+Edit the LICENSE file to include the current year and the copyright holder's full name (typically that of the owner of a new repository).
+
+**Don't forget to delete this section of the README!**
+
 ## Pull Requests
 
 Pull requests are welcome. Please ensure they conform to the conventions described below.
